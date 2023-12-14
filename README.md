@@ -35,3 +35,5 @@ Injoii your bot..  BTW there might be better ways to add personality. I just mad
 works in server too:- 
 
 ![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/40a6fa9b-26e7-41be-8c34-5337d819ab86)
+
+*I know a waifu gf bot is cringe. Butttt it's so coooolll
