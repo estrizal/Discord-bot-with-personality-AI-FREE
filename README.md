@@ -1,5 +1,5 @@
 # Ai-Peronality-discord-bot
-AI powered discord chat bots with personality for Free ✨ Using Google's palm 2 text generation. 
+AI powered discord chat bots with personality for Free ✨ Using Google's palm 2 text generation. Which is kinda similar to google bard. But A little worse. But hey! inaccurate responses means responses with personality. 
 
 Prerequisite:- 
 * A GOOGLE ACCOUNT (i mean.. who doesn't have it) 
