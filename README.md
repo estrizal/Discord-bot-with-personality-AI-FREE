@@ -1,6 +1,13 @@
 # Ai-Peronality-discord-bot
 AI powered discord chat bots with personality for Free ✨ Using Google's palm 2 text generation. 
 
+Prerequisite:- 
+* A GOOGLE ACCOUNT (i mean.. who doesn't have it) 
+* Broke (if have money, get GPT keys. it's for broke people like me)
+* python installed on your system
+* do pip install google-generativeai
+* then also do pip install discord
+
 Step 1: 
 Get API keys from here- https://makersuite.google.com/app/apikey 
 put them in the 'Palm_API_Keys ' variable.  in the code. 
