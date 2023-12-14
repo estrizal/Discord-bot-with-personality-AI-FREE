@@ -25,7 +25,7 @@ Edit the input and output in the "prompt{" thingy.. and it'll behave like that..
 ![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/392a8e1c-abaa-48f7-8e5e-cda972d50ff6)
 
 Step 5: 
-*Change the things in "Default{" thingy to block potentially harmful responses from the bot* By default, it's said to block NO HARMFUL responses. And bot can behave really mean/toxic too. 
+*Change the things in "Default{" thingy to block potentially harmful responses from the bot*. By default, it's set to block NO HARMFUL responses. And bot can behave really mean/toxic too if you keep it to default.  
 ![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/43164300-b01d-4123-b724-f2ec1b8a7856)
 
 Step 6:
