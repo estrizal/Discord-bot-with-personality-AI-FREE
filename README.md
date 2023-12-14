@@ -21,10 +21,13 @@ Finally it should look something like this. And yes. I recently uninstalled pyth
 ![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/74ad6ad6-17a0-423f-b805-af8a3e646f41)
 
 Step 4: 
-Edit the input and output in the "prompt{" thingy.. and it'll behave like that.. By default it behaves like mizuhara from rent a girlfriend anime. 
+Edit the input and output in the "prompt{" thingy.. and it'll behave like that.. By default it behaves like mizuhara from rent a girlfriend anime. change the input output to make it behave like you want. 
+![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/392a8e1c-abaa-48f7-8e5e-cda972d50ff6)
 
 Step 5: 
 *Change the things in "Default{" thingy to block potentially harmful responses from the bot* By default, it's said to block NO HARMFUL responses. And bot can behave really mean/toxic too. 
+![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/43164300-b01d-4123-b724-f2ec1b8a7856)
+
 Step 6:
 Injoii your bot..  BTW there might be better ways to add personality. I just made it in like.. a weekend. so didn't explore much which makesuite/vector Ai had to offer.
 ![image](https://github.com/estrizal/Discord-bot-with-personality-AI-FREE/assets/87994109/f7a49eae-3b3f-4ac6-a053-002f7d389be0)
